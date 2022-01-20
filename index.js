@@ -34,14 +34,3 @@ client.on("ready", () => {
     require("./email.js")(client, imap)
     /* You can add code here if you want */
 });
-/**
- * @INFO
- * This Bot got made for Milrato Development https://milrato.eu | discord.gg/milrato
- * @INFO
- * This Bot is made and Coded by Tomato#6966  https://github.com/Tomato6966
- * @INFO
- * If u share or use this Bot make sure to give us / Tomato#6966 Credits
- * @INFO
- * Website: https://milrato.eu  |  Discord: https://dc.milrato.eu
- * @INFO   
- */
