@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "William Dann",
+  "author": "Nguyen Huy Hieu - Discord:SkyTea#4827",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.1",
